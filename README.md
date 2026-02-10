@@ -61,7 +61,6 @@ KMP-Visualization/
 
 ⚙️ Installation & Setup
 1️⃣ Clone the Repository
-git clone https://github.com/your-username/KMP-Visualization.git
 cd KMP-Visualization
 
 2️⃣ Install Dependencies
@@ -124,3 +123,7 @@ Mini-project submission
 💾 Export visualization as video
 
 🌐 Web-based version
+
+Submitted by:
+Prapti Poudel 
+Nayana Shakya
